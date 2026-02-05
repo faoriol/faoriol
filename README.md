@@ -37,7 +37,7 @@ Habitué aux environnements Linux, au travail en autonomie et aux projets techni
 
   <li>
     <strong>Minishell</strong><br/>
-    Développement d’un shell Unix simplifié conforme au comportement de bash.<br/>
+    Développement d’un shell <strong>Unix</strong> simplifié conforme au comportement de bash.<br/>
     Parsing avancé, gestion des <strong>signals</strong>, exécution de <strong>processes</strong> et redirections.<br/>
     <em>Skills:</em> C, Unix, fork/exec, pipes, signals<br/>
     🔗 <a href="https://github.com/faoriol/minishell">Voir le projet</a>
